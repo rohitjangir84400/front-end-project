@@ -1,0 +1,11 @@
+project include - home page , all product page , cart page , contact page , kids page , login page , mens all page , mens dress page , mens jeans page , mens top wear page, womens all page , womens top wear page , womens dress page , womens jeans page.
+well structured web pages.
+uses inline,internal css.
+uses bootstap css.
+uses bootstap crasoule.
+uses internal and extrnal javascript.
+uses alert message on add to cart button and check out button and on login and signup.
+use local storage to store data.
+use stored data to creaate ui dynamically;
+uses default content to show on cart page if no item in cart.
+create delete fuction to delete item from cart on cart page.
